@@ -13,3 +13,16 @@ Final undergraduate thesis exploring the performance of XLM-RoBERTa with various
 ## 🚀 Model
 Model: `XLM-RoBERTa-base` from HuggingFace Transformers  
 Training on Google Colab with T4 GPU
+## 📚 Publication & Citation
+This project is part of the publication:
+
+“Hyperparameter Exploration on XLM-RoBERTa Modelling for Emotion Classification in Bilingual Text”
+
+Available at: 10.1109/ICIC68054.2025.11309677
+
+If you use this work, please cite it as: 
+> **Y. I. Hasari, S. Yuliyanti and V. Purwayoga**,  
+> *"Hyperparameter Exploration on XLM-RoBERTa Modelling for Emotion Classification in Bilingual Text,"*  
+> Tenth International Conference on Informatics and Computing (ICIC),  
+> Lampung, Indonesia, 2025, pp. 1-6,  
+> doi: 10.1109/ICIC68054.2025.11309677.
